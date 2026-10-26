@@ -1,0 +1,10 @@
+*.o
+/blablablubber
+/Blablablubber.app
+/icon/Blablablubber.iconset/
+/icon/blablablubber-1024.png
+.DS_Store
+.pio/
+.vscode/
+# iPhone-Fotos mit GPS-Koordinaten in den Metadaten, nicht veröffentlichen
+ESP32-Projekt/components stock/IMG_*

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>Blablablubber</string>
+	<key>CFBundleDisplayName</key>
+	<string>Blablablubber</string>
+	<key>CFBundleIdentifier</key>
+	<string>de.philipp.blablablubber</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleExecutable</key>
+	<string>Blablablubber</string>
+	<key>CFBundleIconFile</key>
+	<string>Blablablubber</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>11.0</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Blablablubber nimmt deine Stimme auf, um sie verzögert und verzerrt wiederzugeben.</string>
+</dict>
+</plist>
